@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Jairo Narro</title>
+    <link>https://jaironarro.github.io/website/project/</link>
+      <atom:link href="https://jaironarro.github.io/website/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://jaironarro.github.io/website/project/</link>
+    </image>
+    
+    <item>
+      <title>Enrichment Analysis in R</title>
+      <link>https://jaironarro.github.io/website/project/bioinformatics/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/bioinformatics/</guid>
+      <description>&lt;p&gt;In this project, the biological processes (BP) and molecular functions (MF) involved in pancreatic cancer and diabetes (type 1 and 2) were compared by GO annotations. Enrichment analysis was performed on a set of differentially expressed genes using R packages. Data sets belonging to three different studies were obtained from the NCBI GEO database, and all samples were collected from peripheral blood mononuclear cells. Relevant BPs and MFs were identified for each pathology individually. No related GO terms were found between type 1 diabetes and cancer. However, two significant GO terms were found between type 2 diabetes and cancer related to positive transcriptional regulation. In addition, lipopolysaccharide response and eicosanoid biosynthesis were identified as biological processes in type 2 diabetes that are related to the development of pancreatic cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Focused Ion Beam Bitmap File Generator</title>
+      <link>https://jaironarro.github.io/website/project/example/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/example/</guid>
+      <description>&lt;p&gt;We present a graphical user interface developed in Python that facilitates the generation of bitmap files for the fabrication of patterns and arrays of different geometries with a Focused Ion Beam (FIB) taking into account different milling parameters. For 3D structures, a suitable grayscale can be generated depending on the profile function defined. A second window will show the cross-section view of the structure. The patterns generated with the interface can be saved as a 24-bit bitmap file and then imported into the FIB system.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Joystick-operated computer mouse</title>
+      <link>https://jaironarro.github.io/website/project/cwru/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/cwru/</guid>
+      <description>&lt;p&gt;We do a lot of needful activities with computers. Unfortunately, not everyone can use a computer. Due to accidents, infections, or diseases, people can suffer the amputation of both upper limbs. Therefore, we designed aUto_JD, a joystick-operated computer mouse that will allow people with bilateral upper extremity amputations to use a computer properly. With aUtoJD, we hope believe computer interactions such as surfing the Internet, playing video games, typing documents, chatting with friends, and many more activities are highly achievable for people with amputations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for Parkinson Disease</title>
+      <link>https://jaironarro.github.io/website/project/piib/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/piib/</guid>
+      <description>&lt;p&gt;Idiopathic Parkinson&amp;rsquo;s disease (IDP) is the second most common neurodegenerative disorder worldwide. Due to the non-existence of a cure, current treatments only focus on improving the quality of life by trying to slow the progression of the disease. Therefore, patients require constant monitoring and continuous visits to clinics. Because of this, it is necessary to identify biological markers that allow not only early diagnosis of the disease but also telemonitoring of patients. Different parameters of vocal signals can be used as potential markers for monitoring Parkinson&amp;rsquo;s disease. In this article, we present the results of the application of a Machine Learning model for the selection of relevant voice parameters to monitor a patient with IPD. We used a database containing 195 voice records from healthy individuals and IPD patients. The classification model that obtained the best result was k-nearest neighbors, with an accuracy of 97.8%. We also identified the HNR, RPDE, and DFA attributes as potential voice parameters for patient diagnosis and monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EEG Signal Analysis in MATLAB</title>
+      <link>https://jaironarro.github.io/website/project/eeg/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/eeg/</guid>
+      <description>&lt;p&gt;In this project, electroencephalogram (EEG) signals  of 4 test subjects were analyzed. The data was obtained from the paper by Keirn (1990). The objective was to study and identify differences in EEG signals when subjects perform two different cognitive processes. The Time/Frequency Sub-regions of Interest (TFROI) and the Average Time-Frequency energy within that TFROI (TFROI-AVG) were used for the analysis. The cognitive tasks studied were Baseline and Multiplication. All analyses were performed using algorithms developed in MATLAB.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

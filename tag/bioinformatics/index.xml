@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bioinformatics | Jairo Narro</title>
+    <link>https://jaironarro.github.io/website/tag/bioinformatics/</link>
+      <atom:link href="https://jaironarro.github.io/website/tag/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bioinformatics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Bioinformatics</title>
+      <link>https://jaironarro.github.io/website/tag/bioinformatics/</link>
+    </image>
+    
+    <item>
+      <title>Enrichment Analysis in R</title>
+      <link>https://jaironarro.github.io/website/project/bioinformatics/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/bioinformatics/</guid>
+      <description>&lt;p&gt;In this project, the biological processes (BP) and molecular functions (MF) involved in pancreatic cancer and diabetes (type 1 and 2) were compared by GO annotations. Enrichment analysis was performed on a set of differentially expressed genes using R packages. Data sets belonging to three different studies were obtained from the NCBI GEO database, and all samples were collected from peripheral blood mononuclear cells. Relevant BPs and MFs were identified for each pathology individually. No related GO terms were found between type 1 diabetes and cancer. However, two significant GO terms were found between type 2 diabetes and cancer related to positive transcriptional regulation. In addition, lipopolysaccharide response and eicosanoid biosynthesis were identified as biological processes in type 2 diabetes that are related to the development of pancreatic cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

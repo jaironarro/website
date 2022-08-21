@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medical Devices | Jairo Narro</title>
+    <link>https://jaironarro.github.io/website/tag/medical-devices/</link>
+      <atom:link href="https://jaironarro.github.io/website/tag/medical-devices/index.xml" rel="self" type="application/rss+xml" />
+    <description>Medical Devices</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Medical Devices</title>
+      <link>https://jaironarro.github.io/website/tag/medical-devices/</link>
+    </image>
+    
+    <item>
+      <title>Joystick-operated computer mouse</title>
+      <link>https://jaironarro.github.io/website/project/cwru/</link>
+      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/cwru/</guid>
+      <description>&lt;p&gt;We do a lot of needful activities with computers. Unfortunately, not everyone can use a computer. Due to accidents, infections, or diseases, people can suffer the amputation of both upper limbs. Therefore, we designed aUto_JD, a joystick-operated computer mouse that will allow people with bilateral upper extremity amputations to use a computer properly. With aUtoJD, we hope believe computer interactions such as surfing the Internet, playing video games, typing documents, chatting with friends, and many more activities are highly achievable for people with amputations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Jairo Narro</title>
+    <link>https://jaironarro.github.io/website/tag/machine-learning/</link>
+      <atom:link href="https://jaironarro.github.io/website/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://jaironarro.github.io/website/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Machine Learning for Parkinson Disease</title>
+      <link>https://jaironarro.github.io/website/project/piib/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/piib/</guid>
+      <description>&lt;p&gt;Idiopathic Parkinson&amp;rsquo;s disease (IDP) is the second most common neurodegenerative disorder worldwide. Due to the non-existence of a cure, current treatments only focus on improving the quality of life by trying to slow the progression of the disease. Therefore, patients require constant monitoring and continuous visits to clinics. Because of this, it is necessary to identify biological markers that allow not only early diagnosis of the disease but also telemonitoring of patients. Different parameters of vocal signals can be used as potential markers for monitoring Parkinson&amp;rsquo;s disease. In this article, we present the results of the application of a Machine Learning model for the selection of relevant voice parameters to monitor a patient with IPD. We used a database containing 195 voice records from healthy individuals and IPD patients. The classification model that obtained the best result was k-nearest neighbors, with an accuracy of 97.8%. We also identified the HNR, RPDE, and DFA attributes as potential voice parameters for patient diagnosis and monitoring.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
