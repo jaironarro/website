@@ -57,5 +57,14 @@
 </description>
     </item>
     
+    <item>
+      <title>Microfluidic droplet-generator device</title>
+      <link>https://jaironarro.github.io/website/project/microfluidics/</link>
+      <pubDate>Sat, 16 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/microfluidics/</guid>
+      <description>&lt;p&gt;In this project, I designed a CAD model in Onshape of a microfluidic droplet-generating device based on the article &amp;ldquo;High-throughput detection of ethanol-producing-cyanobacteria in a microdroplet platform&amp;rdquo;. The objective of the paper was to develop a quantitative ethanol detection method on a microdroplet-based platform to detect cyanobacterial strains and identify those with the highest levels of ethanol productivity.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
