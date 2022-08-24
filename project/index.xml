@@ -23,9 +23,9 @@
     
     <item>
       <title>Focused Ion Beam Bitmap File Generator</title>
-      <link>https://jaironarro.github.io/website/project/example/</link>
+      <link>https://jaironarro.github.io/website/project/focused-ion-beam/</link>
       <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://jaironarro.github.io/website/project/example/</guid>
+      <guid>https://jaironarro.github.io/website/project/focused-ion-beam/</guid>
       <description>&lt;p&gt;We present a graphical user interface developed in Python that facilitates the generation of bitmap files for the fabrication of patterns and arrays of different geometries with a Focused Ion Beam (FIB) taking into account different milling parameters. For 3D structures, a suitable grayscale can be generated depending on the profile function defined. A second window will show the cross-section view of the structure. The patterns generated with the interface can be saved as a 24-bit bitmap file and then imported into the FIB system.&lt;/p&gt;
 </description>
     </item>
