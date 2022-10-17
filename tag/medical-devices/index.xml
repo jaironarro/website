@@ -5,12 +5,21 @@
     <link>https://jaironarro.github.io/website/tag/medical-devices/</link>
       <atom:link href="https://jaironarro.github.io/website/tag/medical-devices/index.xml" rel="self" type="application/rss+xml" />
     <description>Medical Devices</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Medical Devices</title>
       <link>https://jaironarro.github.io/website/tag/medical-devices/</link>
     </image>
+    
+    <item>
+      <title>CRISPR-based Microfluidic Biosensor</title>
+      <link>https://jaironarro.github.io/website/project/crispr-based-microfluidic-biosensor/</link>
+      <pubDate>Fri, 14 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/crispr-based-microfluidic-biosensor/</guid>
+      <description>&lt;p&gt;For the Cleveland Clinic - UTEC Challenge 2022, we proposed the design of a  microfluidic sensor that integrates the CRISPR/Cas13 system for the diagnosis of infectious diseases. The microfluidic device consists of three modules: RNA extraction (1), RNA elution (2) and CRISPR reaction (3). If the pathogen is present, the cas13 collateral cleavage function will be activated, and the reporters will release a fluorescent signal that can be measured with a mobile app. This low-cost and easy-to-handle diagnostic platform can be implemented in remote areas with medical centers that do not have adequate infrastructure or equipment.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Joystick-operated computer mouse</title>
