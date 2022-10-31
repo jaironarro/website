@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biomaterials | Jairo Narro</title>
+    <link>https://jaironarro.github.io/website/tag/biomaterials/</link>
+      <atom:link href="https://jaironarro.github.io/website/tag/biomaterials/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biomaterials</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Biomaterials</title>
+      <link>https://jaironarro.github.io/website/tag/biomaterials/</link>
+    </image>
+    
+    <item>
+      <title>Polyethylene glycol (PEG) liposomes with folate for the delivery of methotrexate via intra-articular injection for the treatment of rheumatoid arthritis.</title>
+      <link>https://jaironarro.github.io/website/project/liposomes/</link>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/liposomes/</guid>
+      <description>&lt;p&gt;This project was part of a Biomaterials course. We proposed a liposome-based drug delivery system for the treatment of rheumatoid arthritis, aiming to increase the half-life of the drug, promote drug accumulation in the joints and reduce its systemic effect. For more information click on the &amp;lsquo;PDF&amp;rsquo; button above.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
