@@ -21,14 +21,5 @@
 </description>
     </item>
     
-    <item>
-      <title>Joystick-operated computer mouse</title>
-      <link>https://jaironarro.github.io/website/project/cwru/</link>
-      <pubDate>Tue, 10 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://jaironarro.github.io/website/project/cwru/</guid>
-      <description>&lt;p&gt;We do a lot of needful activities with computers. Unfortunately, not everyone can use a computer. Due to accidents, infections, or diseases, people can suffer the amputation of both upper limbs. Therefore, we designed aUto_JD, a joystick-operated computer mouse that will allow people with bilateral upper extremity amputations to use a computer properly. With aUtoJD, we hope believe computer interactions such as surfing the Internet, playing video games, typing documents, chatting with friends, and many more activities are highly achievable for people with amputations.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

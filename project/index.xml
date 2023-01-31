@@ -5,12 +5,21 @@
     <link>https://jaironarro.github.io/website/project/</link>
       <atom:link href="https://jaironarro.github.io/website/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 14 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jaironarro.github.io/website/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://jaironarro.github.io/website/project/</link>
     </image>
+    
+    <item>
+      <title>Injectable Collagen-Chitosan Hydrogel loaded with Human Induced Pluripotent Stem-Cells for Myocardial Regeneration</title>
+      <link>https://jaironarro.github.io/website/project/cardiac-tissue-engineering/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://jaironarro.github.io/website/project/cardiac-tissue-engineering/</guid>
+      <description>&lt;p&gt;We proposed an injectable collagen-chitosan hydrogel loaded with hiPSC-CMs for myocardium regeneration. In adittion, we proposed a phase I clinical trial to test the safety and effectiveness of the product. We define the inclusion and exclusion criteria for patient selection, and the methods and techniques for monitoring the outcome measures. For more information about the project, please refer to the &amp;lsquo;PDF&amp;rsquo; button above.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CRISPR-based Microfluidic Biosensor</title>
